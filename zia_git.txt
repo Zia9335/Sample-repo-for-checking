@@ -8,3 +8,5 @@ feature 4th
 
 feature1 add
 and feature2
+feature2
+feature2 done
